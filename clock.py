@@ -32,7 +32,7 @@ while True:
     seconds = current_time.tm_sec
     minutes = current_time.tm_min
     hours = current_time.tm_hour
- 
+    
     # Display the clock
     display_clock(seconds, minutes, hours)
    
